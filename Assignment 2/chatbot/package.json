@@ -1,0 +1,23 @@
+{
+  "name": "alfred",
+  "version": "1.0.0",
+  "description": "chatbot-example-nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "me",
+  "license": "ISC",
+
+  "dependencies": {
+    "bluebird": "^3.4.7",
+    "lodash": "^4.17.4",
+    "botbuilder": "^3.9.0",
+    "express": "^4.14.0",
+    "lodash": "^4.17.4"
+  },
+  "scripts": {
+    "start": "node ./app.js" 
+  }
+
+}
